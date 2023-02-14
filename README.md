@@ -16,35 +16,35 @@ Melanoma is a type of cancer that can be deadly if not detected early. It accoun
     - Objective of the Project
 2. Importing all the Required Libraries
 3. Data Reading/Data Understanding
-  - Defining the path for train and test images
+    - Defining the path for train and test images
 4. Dataset Creation
-  - Creating Batch Size
-  - Resizing Images
-  - Create, train & validation dataset from the train directory
+    - Creating Batch Size
+    - Resizing Images
+    - Create, train & validation dataset from the train directory
 5. Dataset Visualisation
-  - Visualize all the Classes Present in the Dataset 
+    - Visualize all the Classes Present in the Dataset 
 6. Model Building & training
-  - Create the Model
-  - Compile the Model
-  - Train the Model
-  - Visualizing the Model
-  - Findings of the Model
+    - Create the Model
+    - Compile the Model
+    - Train the Model
+    - Visualizing the Model
+    - Findings of the Model
 7. Model Building & training on the augmented data
-  - Create the Model
-  - Compiling the Model
-  - Training the Model
-  - Visualizing the Results
+    - Create the Model
+    - Compiling the Model
+    - Training the Model
+    - Visualizing the Results
 8. Class distribution
 9. Handling class imbalances
-  - Train the model on the data createdusing Augmentor
-  - Create a training dataset
-  - Create a validation dataset
-  - Create your model(make sure to include normalization)
-  - Compile your Model(Choose Optimizer and Loss Function)
+    - Train the model on the data createdusing Augmentor
+    - Create a training dataset
+    - Create a validation dataset
+    - Create your model(make sure to include normalization)
+    - Compile your Model(Choose Optimizer and Loss Function)
 10. Model Building & training on the rectified class imbalance data
-  - Train your Model
-  - Visualize the Model Results
-  - Findings
+    - Train your Model
+    - Visualize the Model Results
+    - Findings
 
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
